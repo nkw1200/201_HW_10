@@ -1,0 +1,5 @@
+# CAEN
+Host wongna
+	HostName login.engin.umich.edu
+	User wongna
+	Compression yes
